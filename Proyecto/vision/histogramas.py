@@ -24,3 +24,10 @@ def dibujar_histograma(gris):
             1,
         )
     return imagen
+
+
+def estadisticas(gris):
+    return {
+        "brillo": float(np.mean(gris)),
+        "contraste": float(np.std(gris)),
+    }
