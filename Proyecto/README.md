@@ -1,6 +1,6 @@
 # Reconocimiento de Emociones en Tiempo Real — Visión Artificial
 
-**Autor:** _<tu nombre>_ · **Curso:** Visión Artificial · Pontificia Universidad Javeriana
+Karla Martinez Visión Artificial · Pontificia Universidad Javeriana
 
 Aplicación que detecta rostros con la webcam, clasifica la emoción dominante (en español) y
 muestra en vivo el pipeline pertinente de visión artificial aplicado al rostro:
